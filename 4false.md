@@ -29,3 +29,7 @@ int main()
 	printf("%s\n",list[y].num);
 	return 0;
 }
+
+
+/*运行正确，返回代码错误
+调试显示未加载wntdll.pdb*/
